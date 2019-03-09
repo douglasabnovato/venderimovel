@@ -1,11 +1,17 @@
 //E criamos o primeiro componente personalizado App
 import React from 'react';
 
+import Header from './Header';
+import Main from './Footer';
+import Footer from './Footer';
+
 export default class App extends React.Component {
     render() {
         return ( 
             <div>
-                <h1> @douglasabnovato</h1> 
+                <Header />
+                <Main />
+                <Footer />
             </div>
         );
     }

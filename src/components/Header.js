@@ -1,14 +1,15 @@
 import React from 'react';
-import Nav from "./header/Nav";
-import ButtonMob from "./header/ButtonMob";
-import Logo from "./header/Logo";
-import Address from "./header/Address";
+
+import Nav from "./Header/Nav";
+import ButtonMob from "./Header/ButtonMob";
+import Logo from "./Header/Logo";
+import Address from "./Header/Address";
 
 export default class Header extends React.Component {
 
     render(){
         return(
-            <div className="header">
+            <div className="Header">
                 <Nav/>
                 <ButtonMob/>
                 <Logo/>
