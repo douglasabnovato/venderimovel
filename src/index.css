@@ -67,9 +67,9 @@ a {
         width: 100%;
     }
     .buttonMob {
-        order: 1;
         text-align: right;
         padding: 5px 5% 5px 0;
+        order: 1;
     }
 }
 
@@ -93,9 +93,9 @@ a {
     .nav {
         display: flex;
     }
-    .nav a {
-        width: 25%;
-    }
+        .nav a {
+            width: 25%;
+        }
     .buttonMob {
         display: none;
     }

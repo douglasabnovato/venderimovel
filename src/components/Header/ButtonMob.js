@@ -17,7 +17,7 @@ export default class ButtonMob extends React.Component {
         }
     }
 
-    /* Fará a função de toggle */
+    /* Fará a função de toggle (interruptor)*/
     clickMe()
     {
         if(this.state.visNav === 'flex'){
