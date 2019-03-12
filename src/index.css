@@ -47,7 +47,28 @@ a {
     .buttonMob {
         order: 1;
         text-align: right;
-        padding: 5px 5% 5px 0;
+        padding: 7px 5% 7px 0;
+    }
+
+    .logo {
+        position: absolute;
+        top:0;
+        left: 5%;
+    }
+
+    .address {
+        background: #51A8B1;
+        color: #fff;
+        padding: 10px 5% ;
+        line-height: 35px;
+        text-align: center;
+        order: 3;
+    }
+    .address img{
+        vertical-align: middle;
+    }
+    .address strong{
+        font-size: 24px;
     }
 }
 
@@ -71,6 +92,27 @@ a {
         padding: 5px 5% 5px 0;
         order: 1;
     }
+
+    .logo {
+        position: absolute;
+        top:0;
+        left: 5%;
+    }
+
+    .address {
+        background: #51A8B1;
+        color: #fff;
+        padding: 10px 5% ;
+        line-height: 35px;
+        text-align: center;
+        order: 3;
+    }
+    .address img{
+        vertical-align: middle;
+    }
+    .address strong{
+        font-size: 24px;
+    }
 }
 
 /*Large Smartphones and small notebooks*/
@@ -85,11 +127,39 @@ a {
     .buttonMob {
         display: none;
     }
+
+    .logo {
+        float:left;
+        width: 30%;
+        padding: 15px 0 15px 10%;
+    }
+
+    .address {
+        float: left;
+        width: 70%;
+        padding: 20px 5% 10px 20%;
+        line-height: 35px;
+        text-align: center;
+    }
+    .address img{
+        vertical-align: middle;
+    }
+    .address strong{
+        color: #51A8B1;
+        font-size: 24px;
+    }
 }
 
 /*XLarges screens*/
 
 @media screen and (min-width: 1200px) {
+    .header{
+        float: left;
+        width: 100%;
+        box-shadow: 0 2px 10px #999999;
+        margin-bottom: 25px;
+    }
+    
     .nav {
         display: flex;
     }
@@ -123,4 +193,9 @@ a {
         font-size: 24px;
     }
 
+    .image-gallery{
+        float: left;
+        width: 36%;
+        margin: 0 7%;
+    }
 }

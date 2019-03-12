@@ -1,10 +1,10 @@
 import React from 'react';
 
-{/* 
-    criaremos os três retângulos paralelos no nosso programa de design, no caso Fireworks. 
-    Iremos exportar esse botão como png e fundo transparente.
-    No componente ButtonMob faremos o método clickMe que fará a função toggle 
-*/}
+
+ //   criaremos os três retângulos paralelos no nosso programa de design, no caso Fireworks. 
+ //   Iremos exportar esse botão como png e fundo transparente.
+ //   No componente ButtonMob faremos o método clickMe que fará a função toggle 
+
 
 export default class ButtonMob extends React.Component {
 
