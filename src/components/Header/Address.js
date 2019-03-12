@@ -6,7 +6,7 @@ export default class Address extends React.Component {
 
         return (
             <div className="address">
-                <img src="/img/whatsapp-wef-imoveis.png" alt="whatsapp de imóveis" />(xx)xxxxx-xxxx <br/>Endereço
+                <img src="/img/whatsapp-wef-imoveis.png" alt="whatsapp de imóveis" /><strong>(xx)xxxxx-xxxx</strong> <br/>Endereço
             </div>
         )
     }
