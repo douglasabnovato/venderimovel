@@ -1,8 +1,8 @@
 import React from 'react';
-import Slide from "./main/Slide";
-import Information from "./main/Information";
-import Contact from "./main/Contact";
-import Maps from "./main/Maps";
+import Slide from "./Main/Slide";
+import Information from "./Main/Information";
+import Contact from "./Main/Contact";
+import Maps from "./Main/Maps";
 
 export default class Main extends React.Component {
 

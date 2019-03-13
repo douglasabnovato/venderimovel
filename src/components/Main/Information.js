@@ -5,7 +5,14 @@ export default class Information extends React.Component {
     render(){
 
         return (
-            null
+            <div className='information'>
+                <ul>
+                    <li>Teste</li>
+                    <li>Teste</li>
+                    <li>Teste</li>
+                    <li>Teste</li>
+                </ul>
+            </div>
         )
     }
 

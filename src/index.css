@@ -35,6 +35,8 @@ a {
     .header {
         display: flex;
         flex-direction: column;
+        margin-bottom: 15px;
+        background: #efefef;
     }
     .nav {
         display: none;
@@ -70,6 +72,12 @@ a {
     .address strong{
         font-size: 24px;
     }
+
+    .image-gallery{
+        float: left;
+        width: 90%;
+        margin: 0 5%;
+    }
 }
 
 /*Medium Smartphones*/
@@ -78,6 +86,8 @@ a {
     .header {
         display: flex;
         flex-direction: column;
+        margin-bottom: 15px;
+        background: #efefef;
     }
     .nav {
         display: none;
@@ -113,11 +123,24 @@ a {
     .address strong{
         font-size: 24px;
     }
+
+    .image-gallery{
+        float: left;
+        width: 80%;
+        margin: 0 10%;
+    }
 }
 
 /*Large Smartphones and small notebooks*/
 
 @media screen and (min-width: 769px) and (max-width: 1199px) {
+    .header{
+        float: left;
+        width: 100%;
+        box-shadow: 0 2px 10px #999999;
+        margin-bottom: 25px;
+        background: #efefef;
+    }
     .nav {
         display: flex;
     }
@@ -148,6 +171,11 @@ a {
         color: #51A8B1;
         font-size: 24px;
     }
+    .image-gallery{
+        float: left;
+        width: 42%;
+        margin: 0 4%;
+    }
 }
 
 /*XLarges screens*/
@@ -158,6 +186,7 @@ a {
         width: 100%;
         box-shadow: 0 2px 10px #999999;
         margin-bottom: 25px;
+        background: #efefef;
     }
     
     .nav {
@@ -197,5 +226,17 @@ a {
         float: left;
         width: 36%;
         margin: 0 7%;
+    }
+
+    .information{
+        float: left;
+        width: 50%;
+    }
+
+    .information li{
+        list-style: none;
+        line-height: 35px;
+        padding-left: 20px;
+        background: url("/img/home-location-marker.png" no-repeat left center)
     }
 }

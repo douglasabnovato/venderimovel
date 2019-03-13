@@ -37,7 +37,7 @@ export default class Slide extends React.Component {
             thumbnail: '/img/photos/thumb/flower-bed.jpg',
           },
           {
-            original: '/img/photos/original/grass-promptlys.jpg',
+            original: '/img/photos/original/grass-promptly.jpg',
             thumbnail: '/img/photos/thumb/grass-promptly.jpg',
           },
           {
