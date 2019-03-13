@@ -12,8 +12,8 @@
 5. src / components / App.js
 
 ### ReactJS - SPA - #2 Esboço Layout
-1. Criar componentes e subcomponentes
 ![Layout App](/esboco-components.jpg)
+1. Criar componentes e subcomponentes
 
 :. Do curso Youtube - Web Design em Foco - ReactJS - Aplicação de Página Única.
 Por Web Design em Foco : www.webdesignemfoco.com
