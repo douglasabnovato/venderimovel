@@ -15,5 +15,23 @@
 ![Layout App](/esboco-components.jpg)
 1. Criar componentes e subcomponentes
 
+### ReactJS - SPA - #3 Criar links
+1. dividir a estilização em media-queries
+a. estilizar links responsivamente 
+2. importar um módulo externo
+a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll 
+3. criar div nav
+
+### ReactJS - SPA - #4 Botão Mobile
+1. botão mobile
+2. função toggle
+3. estilização
+
+### ReactJS - SPA - #5 Logomarca e Endereço
+
+### ReactJS - SPA - #6 Slideshow
+1. npm install react-image-gallery 
+2. package.json react-image-gallery ^0.8.14
+
 :. Do curso Youtube - Web Design em Foco - ReactJS - Aplicação de Página Única.
 Por Web Design em Foco : www.webdesignemfoco.com
