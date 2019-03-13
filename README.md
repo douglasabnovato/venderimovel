@@ -33,5 +33,21 @@ a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll
 1. npm install react-image-gallery 
 2. package.json react-image-gallery ^0.8.14
 
+### ReactJS - SPA - #7 Informações e Mapa
+
+### ReactJS - SPA - #8 Footer
+
+### ReactJS - SPA - #9 Contato
+
+### ReactJS - SPA - #10 Envio de Email
+
+### ReactJS - SPA - #11 Roteamento
+
+### ReactJS - SPA - #12 Props
+
+### ReactJS - SPA - #13 Bootstrap
+
+### ReactJS - SPA - #14 Virtual DOM e Conclusão
+
 :. Do curso Youtube - Web Design em Foco - ReactJS - Aplicação de Página Única.
 Por Web Design em Foco : www.webdesignemfoco.com
