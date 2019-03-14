@@ -395,4 +395,27 @@ a {
         flex-grow: 5;
         color: #fff;
     }
+
+    .formulario{
+        display: flex;
+        width: 50%;
+        margin: 25px 20%;
+        flex-direction: column;
+    }
+
+    .formulario h1{
+        color: #38777E;
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .formulario input{
+        margin: 6px 0;
+        height: 40p;
+    }
+
+    .formulario input[type='text'], .formulario input[type='tel'],.formulario input[type='email']{
+        width: 100%;
+        padding: 0 5px;
+    }
 }
