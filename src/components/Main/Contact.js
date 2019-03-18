@@ -8,7 +8,8 @@ export default class Contact extends React.Component {
 
         return (
             <div className="formulario" id="contact">
-                <h1>Fale conosco</h1>
+                <h1>Fale Conosco</h1>
+                <br/>
                 <form name="form1" id="form1" method="post" action="/controllers/controllerForm.php">
                     <input type="text" name="nome" id="nome" placeholder="Nome"/>
                     <InputMask type="tel" name="telefone" id="telefone" placeholder="Telefone" mask="(99)99999-9999" maskChar=" " />

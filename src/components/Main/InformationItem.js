@@ -5,11 +5,11 @@ export default class InformationItem extends React.Component{
         return(
             <div className="vantagensItem">
                 <div className="vantagensItemImg">
-                    <img src="/img/ok.png" alt="Ótima localização." title="espaço de primeira"></img>    
+                    <img src={"/img/"+this.props.image} alt={this.props.alt} title={this.props.title}></img>    
                 </div>
                 <div className="vantagensItemTxt">
-                    Ótimo apartamento com estrutura de primeira.<br/>
-                    R$800,00
+                    {this.props.text}<br/>
+                    {this.props.value}
                 </div>
             </div>
         );

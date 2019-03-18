@@ -1,8 +1,9 @@
 import React from 'react';
+import InformationItem from './InformationItem';
 
 
 export default class Information extends React.Component {
-    render(){
+    render() {
         return (
             <div>
                 <div className='information'>
@@ -25,28 +26,40 @@ export default class Information extends React.Component {
                         <li>sistema IoT </li>
                     </ul>
                 </div>
-                <br/>
+                <br />
                 <div className="informationText" >
-                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e 
-                    de impressos, e vem sendo utilizado desde o século XVI, quando um impressor 
-                    desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro 
-                    de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também 
-                    ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. 
-                    Se popularizou na década de 60, quando a Letraset lançou decalques contendo 
-                    passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado 
+                    Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e
+                    de impressos, e vem sendo utilizado desde o século XVI, quando um impressor
+                    desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro
+                    de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também
+                    ao salto para a editoração eletrônica, permanecendo essencialmente inalterado.
+                    Se popularizou na década de 60, quando a Letraset lançou decalques contendo
+                    passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado
                     a softwares de editoração eletrônica como Aldus PageMaker.
                 </div>
-                <br/>
+                <br />
                 <div className="vantagens">
-                    <div className="vantagensItem">
-                        <div className="vantagensItemImg">
-                            <img src="/img/ok.png" alt="Ótima localização." title="espaço de primeira"></img>    
-                        </div>
-                        <div className="vantagensItemTxt">
-                            Ótimo apartamento com estrutura de primeira.<br/>
-                            R$800,00
-                        </div>
-                    </div>
+                    <InformationItem
+                        image="ok.png"
+                        alt="Excelente Imóvel"
+                        title="Venha nos conhecer !"
+                        text="Apartamento com preço incrível !"
+                        value="R$800,00"
+                    />
+                    <InformationItem
+                        image="localizacao.jpg"
+                        alt="Localização diferenciada !"
+                        title="Venha nos conhecer !"
+                        text="Localização estratégica !"
+                        value="De fácil acesso."
+                    />
+                    <InformationItem
+                        image="playground.png"
+                        alt=" Área de playground !"
+                        title="Venha nos conhecer !"
+                        text="Área pensada em diversão !"
+                        value="Playground para todas idades."
+                    />
                 </div>
             </div>
         )
