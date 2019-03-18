@@ -1,6 +1,6 @@
 # ReactJS - SPA (Single Page Application)
 
-## Atualização: 13 de março de 2019 - 10:31
+## Atualização: 18 de março de 2019 - 20:44 - <done/>
 ## Criação: 09 de março de 2019
 ## Prática : @douglasabnovato
 
@@ -42,8 +42,12 @@ a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll
 ### ReactJS - SPA - #10 Envio de Email
 
 ### ReactJS - SPA - #11 Roteamento
+1. npm install --save react-router-dom 
+2. package.json - "react-router-dom":"^4.3.1"
 
 ### ReactJS - SPA - #12 Props
+1.props
+2.const
 
 ### ReactJS - SPA - #13 Bootstrap
 
