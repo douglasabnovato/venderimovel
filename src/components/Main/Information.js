@@ -1,9 +1,11 @@
 import React from 'react';
 import InformationItem from './InformationItem';
 
-
 export default class Information extends React.Component {
+
     render() {
+
+
         return (
             <div>
                 <div className='information'>
@@ -38,6 +40,7 @@ export default class Information extends React.Component {
                     a softwares de editoração eletrônica como Aldus PageMaker.
                 </div>
                 <br />
+                
                 <div className="vantagens">
                     <InformationItem
                         image="ok.png"

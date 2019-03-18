@@ -13,7 +13,7 @@ export default class Address extends React.Component {
                 </picture>
                 <strong>(xx)xxxxx-xxxx</strong> <br/>
                 Endereço<br/>
-                <strong>R$700,00</strong>
+                <strong>R$800,00</strong>
             </div>
         )
     }
