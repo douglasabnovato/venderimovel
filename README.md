@@ -1,6 +1,6 @@
 # ReactJS - SPA (Single Page Application)
 
-## Atualização: 18 de março de 2019 - 20:44 - <done/>
+## Atualização: 18 de março de 2019 - 20:44 - done
 ## Criação: 09 de março de 2019
 ## Prática : @douglasabnovato
 
