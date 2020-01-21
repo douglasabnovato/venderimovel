@@ -9,7 +9,8 @@
 ## Desafio do projeto `ReactJS - SPA`
 - Esse projeto é uma Aplicação de Página Simples para vender um imóvel.</br>
 a. Endereço Github Pages : [link para essa aplicação](https://douglasabnovato.github.io/venderimovel)</br>
-b. Endereço ZEIT - NOW : [link para essa aplicação](https://venderimovel.douglasabnovato.now.sh/)
+b. Endereço ZEIT - NOW : [link para essa aplicação](https://venderimovel.douglasabnovato.now.sh/)</br>
+c. Endereço Heroku : [link para essa aplicação](https://venderimovel.herokuapp.com/)
 
 ### Ferramentas : 
 ![ReactJS](/images/logo-reactjs.jpg)
