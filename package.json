@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "venderimovel",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -30,5 +30,17 @@
   ],
   "devDependencies": {
     "react-dev-utils": "^8.0.0"
-  }
+  },
+  "description": "![ReactJS](/images/logo-reactjs.jpg)\r ![Git](/images/logo-git.png)\r ![Github](/images/logo-github.png)\r ![Youtube](/images/logo-youtube.png)\r ![HTML/CSS/Javascript](/images/logo-html-css-js.jpeg)\r ![VSCode](/images/logo-VSCode.png)\r ![Yarn](/images/logo-yarn.png)\r ![Nodejs](/images/logo-nodejs.png)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/douglasabnovato/vender-imovel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasabnovato/vender-imovel/issues"
+  },
+  "homepage": "https://github.com/douglasabnovato/vender-imovel#readme"
 }

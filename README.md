@@ -3,11 +3,14 @@
 ### Criação: 09 de março de 2019
 ### Atualização: 21 de janeiro de 2020 - 13:37
 ### Terminado: Sim
-### Publicado: https://douglasabnovato.github.io/venderimovel
+### Publicado: Sim
 ### Prática : @douglasabnovato
 
-### Ferramentas : 
+## Desafio do projeto `ReactJS - SPA`
+- Esse projeto é uma Aplicação de Página Simples para vender um imóvel.</br>
+a. Endereço publicado [link para essa aplicação](https://douglasabnovato.github.io/venderimovel)
 
+### Ferramentas : 
 ![ReactJS](/images/logo-reactjs.jpg)
 ![Git](/images/logo-git.png)
 ![Github](/images/logo-github.png)
@@ -16,12 +19,6 @@
 ![VSCode](/images/logo-VSCode.png)
 ![Yarn](/images/logo-yarn.png)
 ![Nodejs](/images/logo-nodejs.png)
-
-## Desafio do projeto `ReactJS - SPA`
-- Esse projeto é uma página para vender um imóvel.
-1. Divulgação de informações
-2. Coletar informações de contato do cliente
-a. endereço publicado [link para essa aplicação](https://git-scm.com)
 
 ## Terminado o projeto `ReactJS - SPA`
 ![Venda de Imóvel](/images/tela-1.jpg)
