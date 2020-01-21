@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/douglasabnovato/vender-imovel/precache-manifest.d0f30ec9b4d56d4b5dc6d3d63f82b76c.js"
+  "/venderimovel/precache-manifest.8aad1da8d568340fa610ded5dc026697.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/douglasabnovato/vender-imovel/index.html", {
+workbox.routing.registerNavigationRoute("/venderimovel/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

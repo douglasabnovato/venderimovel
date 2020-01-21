@@ -1,15 +1,15 @@
 {
-  "main.css": "/douglasabnovato/vender-imovel/static/css/main.c7190290.chunk.css",
-  "main.js": "/douglasabnovato/vender-imovel/static/js/main.60c26dfe.chunk.js",
-  "main.js.map": "/douglasabnovato/vender-imovel/static/js/main.60c26dfe.chunk.js.map",
-  "runtime~main.js": "/douglasabnovato/vender-imovel/static/js/runtime~main.ede4008c.js",
-  "runtime~main.js.map": "/douglasabnovato/vender-imovel/static/js/runtime~main.ede4008c.js.map",
-  "static/css/2.1aa5c2ec.chunk.css": "/douglasabnovato/vender-imovel/static/css/2.1aa5c2ec.chunk.css",
-  "static/js/2.f5108dfd.chunk.js": "/douglasabnovato/vender-imovel/static/js/2.f5108dfd.chunk.js",
-  "static/js/2.f5108dfd.chunk.js.map": "/douglasabnovato/vender-imovel/static/js/2.f5108dfd.chunk.js.map",
-  "index.html": "/douglasabnovato/vender-imovel/index.html",
-  "precache-manifest.d0f30ec9b4d56d4b5dc6d3d63f82b76c.js": "/douglasabnovato/vender-imovel/precache-manifest.d0f30ec9b4d56d4b5dc6d3d63f82b76c.js",
-  "service-worker.js": "/douglasabnovato/vender-imovel/service-worker.js",
-  "static/css/2.1aa5c2ec.chunk.css.map": "/douglasabnovato/vender-imovel/static/css/2.1aa5c2ec.chunk.css.map",
-  "static/css/main.c7190290.chunk.css.map": "/douglasabnovato/vender-imovel/static/css/main.c7190290.chunk.css.map"
+  "main.css": "/venderimovel/static/css/main.c7190290.chunk.css",
+  "main.js": "/venderimovel/static/js/main.60c26dfe.chunk.js",
+  "main.js.map": "/venderimovel/static/js/main.60c26dfe.chunk.js.map",
+  "runtime~main.js": "/venderimovel/static/js/runtime~main.4b1a62ba.js",
+  "runtime~main.js.map": "/venderimovel/static/js/runtime~main.4b1a62ba.js.map",
+  "static/css/2.1aa5c2ec.chunk.css": "/venderimovel/static/css/2.1aa5c2ec.chunk.css",
+  "static/js/2.f5108dfd.chunk.js": "/venderimovel/static/js/2.f5108dfd.chunk.js",
+  "static/js/2.f5108dfd.chunk.js.map": "/venderimovel/static/js/2.f5108dfd.chunk.js.map",
+  "index.html": "/venderimovel/index.html",
+  "precache-manifest.8aad1da8d568340fa610ded5dc026697.js": "/venderimovel/precache-manifest.8aad1da8d568340fa610ded5dc026697.js",
+  "service-worker.js": "/venderimovel/service-worker.js",
+  "static/css/2.1aa5c2ec.chunk.css.map": "/venderimovel/static/css/2.1aa5c2ec.chunk.css.map",
+  "static/css/main.c7190290.chunk.css.map": "/venderimovel/static/css/main.c7190290.chunk.css.map"
 }
