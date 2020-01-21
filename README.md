@@ -1,8 +1,10 @@
-# ReactJS - SPA (Single Page Application)
+### ReactJS - SPA (Single Page Application)
 
-## Atualização: 18 de março de 2019 - 20:44 - <done/>
-## Criação: 09 de março de 2019
-## Prática : @douglasabnovato
+### Criação: 09 de março de 2019
+### Atualização: 21 de janeiro de 2020 - 13:37
+### Terminado: Sim
+### Publicado: githubpages-nome-desse-projeto.git
+### Prática : @douglasabnovato
 
 ### ReactJS - SPA - #1 Instalação
 1. npx create-react-app my-app
