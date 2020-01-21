@@ -3,11 +3,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './components/App';
-import Contato from './components/Contato';
-import Informacao from './components/Informacao';
-import Fotos from './components/Fotos';
-import Mapa from './components/Mapa';
+import App from './src/components/App';
+import Contato from './src/components/Contato';
+import Informacao from './src/components/Informacao';
+import Fotos from './src/components/Fotos';
+import Mapa from './src/components/Mapa';
 
 import {BrowserRouter, Switch, Route} from 'react-router-dom';
 

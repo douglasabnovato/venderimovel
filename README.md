@@ -32,7 +32,7 @@ a. Endereço publicado [link para essa aplicação](https://douglasabnovato.gith
 5. src / components / App.js
 
 ### ReactJS - SPA - #2 Esboço Layout
-![Layout App](/esboco-components.jpg)
+![Layout App](/images/esboco-components.jpg)
 1. Criar componentes e subcomponentes
 
 ### ReactJS - SPA - #3 Criar links
