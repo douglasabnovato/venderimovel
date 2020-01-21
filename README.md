@@ -8,7 +8,8 @@
 
 ## Desafio do projeto `ReactJS - SPA`
 - Esse projeto é uma Aplicação de Página Simples para vender um imóvel.</br>
-a. Endereço publicado [link para essa aplicação](https://douglasabnovato.github.io/venderimovel)
+a. Endereço Github Pages : [link para essa aplicação](https://douglasabnovato.github.io/venderimovel)</br>
+b. Endereço ZEIT - NOW : [link para essa aplicação](https://venderimovel.douglasabnovato.now.sh/)
 
 ### Ferramentas : 
 ![ReactJS](/images/logo-reactjs.jpg)
@@ -72,6 +73,9 @@ a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll
 ### ReactJS - SPA - #13 Bootstrap
 
 ### ReactJS - SPA - #14 Virtual DOM e Conclusão
+
+npm run build && ./node_modules/.bin/gh-pages -d build
+
 
 :. Do curso Youtube - REACTJS - Aplicação de Página Única : `https://www.youtube.com/watch?v=D97xHLUzoEY&t=717s`</br>
 Por Web Design em Foco : www.webdesignemfoco.com

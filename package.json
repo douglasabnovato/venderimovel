@@ -14,6 +14,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "deploy":"npm run build && ./node_modules/.bin/gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -29,18 +30,19 @@
     "not op_mini all"
   ],
   "devDependencies": {
+    "gh-pages": "^2.2.0",
     "react-dev-utils": "^8.0.0"
   },
-  "description": "![ReactJS](/images/logo-reactjs.jpg)\r ![Git](/images/logo-git.png)\r ![Github](/images/logo-github.png)\r ![Youtube](/images/logo-youtube.png)\r ![HTML/CSS/Javascript](/images/logo-html-css-js.jpeg)\r ![VSCode](/images/logo-VSCode.png)\r ![Yarn](/images/logo-yarn.png)\r ![Nodejs](/images/logo-nodejs.png)",
+  "description": "Esse projeto é uma Aplicação de Página Simples para vender um imóvel.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/douglasabnovato/vender-imovel.git"
+    "url": "git+https://github.com/douglasabnovato/venderimovel.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/douglasabnovato/vender-imovel/issues"
+    "url": "https://github.com/douglasabnovato/venderimovel/issues"
   },
-  "homepage": "https://github.com/douglasabnovato/vender-imovel#readme"
+  "homepage": "https://douglasabnovato.github.io/venderimovel/"
 }
