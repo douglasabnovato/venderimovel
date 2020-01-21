@@ -1,4 +1,4 @@
-### ReactJS - SPA (Single Page Application)
+## ReactJS - SPA (Single Page Application)
 
 ### Criação: 09 de março de 2019
 ### Atualização: 21 de janeiro de 2020 - 13:37
@@ -16,6 +16,16 @@
 ![VSCode](/images/logo-VSCode.png)
 ![Yarn](/images/logo-yarn.png)
 ![Nodejs](/images/logo-nodejs.png)
+
+## Desafio do projeto `ReactJS - SPA`
+- Esse projeto é uma página para vender um imóvel.
+1. Divulgação de informações
+2. Coletar informações de contato do cliente
+a. endereço publicado [link para essa aplicação](https://git-scm.com)
+
+## Terminado o projeto `ReactJS - SPA`
+![Venda de Imóvel](/images/tela-1.jpg)
+>@douglasabnovato
 
 ### ReactJS - SPA - #1 Instalação
 1. npx create-react-app my-app
