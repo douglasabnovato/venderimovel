@@ -5,7 +5,6 @@ export default class Information extends React.Component {
 
     render() {
 
-
         return (
             <div>
                 <div className='information'>
