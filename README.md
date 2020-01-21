@@ -53,5 +53,5 @@ a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll
 
 ### ReactJS - SPA - #14 Virtual DOM e Conclusão
 
-:. Do curso Youtube - Web Design em Foco - ReactJS - Aplicação de Página Única.
+:. Do curso Youtube - REACTJS - Aplicação de Página Única : `https://www.youtube.com/watch?v=D97xHLUzoEY&t=717s`<br/>
 Por Web Design em Foco : www.webdesignemfoco.com
