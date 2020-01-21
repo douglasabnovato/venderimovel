@@ -6,6 +6,17 @@
 ### Publicado: githubpages-nome-desse-projeto.git
 ### Prática : @douglasabnovato
 
+### Ferramentas : 
+
+![ReactJS](/images/logo-reactjs.jpg)
+![Git](/images/logo-git.png)
+![Github](/images/logo-github.png)
+![Youtube](/images/logo-youtube.png)
+![HTML/CSS/Javascript](/images/logo-html-css-js.jpeg)
+![VSCode](/images/logo-VSCode.png)
+![Yarn](/images/logo-yarn.png)
+![Nodejs](/images/logo-nodejs.png)
+
 ### ReactJS - SPA - #1 Instalação
 1. npx create-react-app my-app
 2. public / index.html
