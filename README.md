@@ -1,9 +1,9 @@
-## ReactJS - SPA (Single Page Application)
+## Single Page Application
 
 ### Criação: 09 de março de 2019
 ### Atualização: 21 de janeiro de 2020 - 13:37
 ### Terminado: Sim
-### Publicado: githubpages-nome-desse-projeto.git
+### Publicado: https://douglasabnovato.github.io/vender-imovel/
 ### Prática : @douglasabnovato
 
 ### Ferramentas : 
