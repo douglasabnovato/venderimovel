@@ -3,7 +3,7 @@
 ### Criação: 09 de março de 2019
 ### Atualização: 21 de janeiro de 2020 - 13:37
 ### Terminado: Sim
-### Publicado: https://douglasabnovato.github.io/vender-imovel/
+### Publicado: https://douglasabnovato.github.io/venderimovel
 ### Prática : @douglasabnovato
 
 ### Ferramentas : 
