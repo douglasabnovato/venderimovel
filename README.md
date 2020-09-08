@@ -70,6 +70,7 @@ Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo
 #### Publicado 
 
 ![Vender Imóvel](/images/tela-1.jpg)<br/>
+![Vender Imóvel](/images/tela-2.jpg)<br/>
 
 :. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)<br/>
 .. De [Web Design em Foco](https://www.youtube.com/watch?v=D97xHLUzoEY&t=717s) 
