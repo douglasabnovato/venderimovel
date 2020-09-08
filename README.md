@@ -23,7 +23,7 @@ Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo
 - Criação: 09 de março de 2019
 - Atualização: 21 de janeiro de 2020
 - Terminado: Sim 
-- Publicado: [Menu Responsivo](https://venderimovel.herokuapp.com/)
+- Publicado: [Vender Imóvel](https://venderimovel.herokuapp.com/)
 
 #### Tarefas 
 
@@ -33,61 +33,40 @@ Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo
 - [x] 1.3. src / index.css
 - [x] 1.4. src / index.js
 - [x] 1.5. src / components / App.js
-
 - [x] 2. Esboço Layout
 - [x] 2.1. ![Layout App](/images/esboco-components.jpg)
 - [x] 2.2. Criar componentes e subcomponentes
-
 - [x] 3. Criar links
 - [x] 3.1.1. dividir a estilização em media-queries
 - [x] 3.1.2. estilizar links responsivamente 
 - [x] 3.2.1. importar um módulo externo
 - [x] 3.2.2. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll 
 - [x] 3.3. criar div nav
-
 - [x] 4. Botão Mobile
 - [x] 4.1. botão mobile
 - [x] 4.2. função toggle
 - [x] 4.3. estilização
-
-### ReactJS - SPA - #5 Logomarca e Endereço
-
-### ReactJS - SPA - #6 Slideshow
-1. npm install react-image-gallery 
-2. package.json react-image-gallery ^0.8.14
-
-### ReactJS - SPA - #7 Informações e Mapa
-
-### ReactJS - SPA - #8 Footer
-
-### ReactJS - SPA - #9 Contato
-
-### ReactJS - SPA - #10 Envio de Email
-
-### ReactJS - SPA - #11 Roteamento
-1. npm install --save react-router-dom 
-2. package.json - "react-router-dom":"^4.3.1"
-
-### ReactJS - SPA - #12 Props
-1.props
-2.const
-
-### ReactJS - SPA - #13 Bootstrap
-
-### ReactJS - SPA - #14 Virtual DOM e Conclusão
-
-npm run build && ./node_modules/.bin/gh-pages -d build
-
+- [x] 5. Logomarca e Endereço
+- [x] 6. Slideshow
+- [x] 6.1. npm install react-image-gallery 
+- [x] 6.2. package.json react-image-gallery ^0.8.14
+- [x] 7. Informações e Mapa
+- [x] 8.Footer
+- [x] 9. Contato
+- [x] 10. Envio de Email
+- [x] 11. Roteamento
+- [x] 11.1. npm install --save react-router-dom 
+- [x] 11.2. package.json - "react-router-dom":"^4.3.1"
+- [x] 12. Props
+- [x] 12.1.props
+- [x] 12.2.const
+- [x] 13. Bootstrap
+- [x] 14. Virtual DOM e Conclusão
+- [x] 14.1. npm run build && ./node_modules/.bin/gh-pages -d build
 
 #### Publicado 
 
 ![Vender Imóvel](/images/tela-1.jpg)<br/>
 
 :. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)
- 
- 
-
-
-
-:. Do curso Youtube - REACTJS - Aplicação de Página Única : `https://www.youtube.com/watch?v=D97xHLUzoEY&t=717s`</br>
-Por Web Design em Foco : www.webdesignemfoco.com
+.. De [Web Design em Foco](https://www.youtube.com/watch?v=D97xHLUzoEY&t=717s) 
