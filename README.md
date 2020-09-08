@@ -1,18 +1,14 @@
-## Single Page Application
+### SPA Vender Imóvel
 
-### Criação: 09 de março de 2019
-### Atualização: 21 de janeiro de 2020 - 13:37
-### Terminado: Sim
-### Publicado: Sim
-### Prática : @douglasabnovato
+#### Objetivo
 
-## Desafio do projeto `ReactJS - SPA`
-- Esse projeto é uma Aplicação de Página Simples para vender um imóvel.</br>
-a. Endereço Github Pages : [link para essa aplicação](https://douglasabnovato.github.io/venderimovel)</br>
-b. Endereço ZEIT - NOW : [link para essa aplicação](https://venderimovel.douglasabnovato.now.sh/)</br>
-c. Endereço Heroku : [link para essa aplicação](https://venderimovel.herokuapp.com/)
+Uma tradicional spa com informações de um serviço.
+A responsividade possibilitando adaptação para Computador, Tablet, Smartphone.
 
-### Ferramentas : 
+#### Ferramentas / Tecnologias
+
+Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo spa.
+
 ![ReactJS](/images/logo-reactjs.jpg)
 ![Git](/images/logo-git.png)
 ![Github](/images/logo-github.png)
@@ -22,32 +18,37 @@ c. Endereço Heroku : [link para essa aplicação](https://venderimovel.herokuap
 ![Yarn](/images/logo-yarn.png)
 ![Nodejs](/images/logo-nodejs.png)
 
-## Terminado o projeto `ReactJS - SPA`
-![Venda de Imóvel](/images/tela-1.jpg)
->@douglasabnovato
+#### Detalhes
 
-### ReactJS - SPA - #1 Instalação
-1. npx create-react-app my-app
-2. public / index.html
-3. src / index.css
-4. src / index.js
-5. src / components / App.js
+- Criação: 09 de março de 2019
+- Atualização: 21 de janeiro de 2020
+- Terminado: Sim 
+- Publicado: [Menu Responsivo](https://venderimovel.herokuapp.com/)
 
-### ReactJS - SPA - #2 Esboço Layout
-![Layout App](/images/esboco-components.jpg)
-1. Criar componentes e subcomponentes
+#### Tarefas 
 
-### ReactJS - SPA - #3 Criar links
-1. dividir a estilização em media-queries
-a. estilizar links responsivamente 
-2. importar um módulo externo
-a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll 
-3. criar div nav
+- [x] 1. Instalação
+- [x] 1.1. npx create-react-app my-app
+- [x] 1.2. public / index.html
+- [x] 1.3. src / index.css
+- [x] 1.4. src / index.js
+- [x] 1.5. src / components / App.js
 
-### ReactJS - SPA - #4 Botão Mobile
-1. botão mobile
-2. função toggle
-3. estilização
+- [x] 2. Esboço Layout
+- [x] 2.1. ![Layout App](/images/esboco-components.jpg)
+- [x] 2.2. Criar componentes e subcomponentes
+
+- [x] 3. Criar links
+- [x] 3.1.1. dividir a estilização em media-queries
+- [x] 3.1.2. estilizar links responsivamente 
+- [x] 3.2.1. importar um módulo externo
+- [x] 3.2.2. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll 
+- [x] 3.3. criar div nav
+
+- [x] 4. Botão Mobile
+- [x] 4.1. botão mobile
+- [x] 4.2. função toggle
+- [x] 4.3. estilização
 
 ### ReactJS - SPA - #5 Logomarca e Endereço
 
@@ -76,6 +77,16 @@ a. efeito anchor scrollover : npm install react-anchor-link-smooth-scroll
 ### ReactJS - SPA - #14 Virtual DOM e Conclusão
 
 npm run build && ./node_modules/.bin/gh-pages -d build
+
+
+#### Publicado 
+
+![Vender Imóvel](/images/tela-1.jpg)<br/>
+
+:. [Linkedin - @douglasabnovato](https://www.linkedin.com/in/douglasabnovato/)
+ 
+ 
+
 
 
 :. Do curso Youtube - REACTJS - Aplicação de Página Única : `https://www.youtube.com/watch?v=D97xHLUzoEY&t=717s`</br>
