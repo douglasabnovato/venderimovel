@@ -2,12 +2,12 @@
 
 #### Objetivo
 
-Uma tradicional spa com informações de um serviço.
+Uma tradicional spa para expor detalhes de um imóvel para converter em vendas.
 A responsividade possibilitando adaptação para Computador, Tablet, Smartphone.
 
 #### Ferramentas / Tecnologias
 
-Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo spa.
+Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo spa. Utilizado biblioteca visual Bootstrap e alguns de seus elementos para possibilitar interações com o visitante do portal.
 
 ![ReactJS](/images/logo-reactjs.jpg)
 ![Git](/images/logo-git.png)
@@ -25,6 +25,10 @@ Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo
 - Terminado: Sim 
 - Publicado: [Vender Imóvel](https://venderimovel.herokuapp.com/)
 
+#### Esboço do projeto
+
+![Layout App](/images/esboco-components.jpg)
+
 #### Tarefas 
 
 - [x] 1. Instalação
@@ -33,9 +37,8 @@ Uma aplicação web responsiva, desenvolvida em html, css e javascript em modelo
 - [x] 1.3. src / index.css
 - [x] 1.4. src / index.js
 - [x] 1.5. src / components / App.js
-- [x] 2. Esboço Layout
-- [x] 2.1. ![Layout App](/images/esboco-components.jpg)
-- [x] 2.2. Criar componentes e subcomponentes
+- [x] 2. Esboço Layout 
+- [x] 2.1. Criar componentes e subcomponentes
 - [x] 3. Criar links
 - [x] 3.1.1. dividir a estilização em media-queries
 - [x] 3.1.2. estilizar links responsivamente 
